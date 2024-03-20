@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Rushikesh Gaikwad</h1>
 <h3 align="center"> FullStack developer </h3>
 
-- 🌱 I’m currently learning **Frameworks and Technology**
+- 🌱 I’m currently learning ** New Frameworks and Technology**
 
-- 👨‍💻 All of my projects are available at [in this repository](in this repository)
+- 👨‍💻 All of my projects are available in this repository
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
